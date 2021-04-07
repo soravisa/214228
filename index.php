@@ -74,6 +74,12 @@
                             </footer>
                         </div>
                     </div>
+
+                    <div class="flex-container">
+                        <div class="flex-item-left">1</div>
+                        <div class="flex-item-center">2</div>
+                        <div class="flex-item-right">2</div>
+                    </div>
                 </div>
             </section>
         </div>
